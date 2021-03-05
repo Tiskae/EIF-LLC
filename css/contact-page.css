@@ -1,0 +1,23 @@
+.page-banner {
+  background-image: linear-gradient(
+      to right,
+      rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0.4)
+    ),
+    url("../images/hero-contact.jpg");
+}
+
+.contact-info,
+.content-block {
+  margin: 0 auto;
+  max-width: 50rem;
+}
+
+.social-link:hover {
+  color: rgb(113, 230, 113);
+  color: gold;
+}
+
+.social-link-icon {
+  margin-right: 0.4rem;
+}

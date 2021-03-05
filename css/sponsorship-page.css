@@ -1,0 +1,21 @@
+.page-banner {
+  background-image: linear-gradient(
+      to right,
+      rgba(0, 0, 0, 0.4),
+      rgba(0, 0, 0, 0.4)
+    ),
+    /* url("../images/hero-sponsor.jpg"), */ url("../images/event-6.jpg");
+  background-size: cover;
+  background-position: 50% 60%;
+  height: 25rem;
+}
+
+.story-form {
+  max-width: 40rem;
+  margin: 0 auto;
+}
+
+.story-form h3,
+.story-form label {
+  color: var(--color-green);
+}
